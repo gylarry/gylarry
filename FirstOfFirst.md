@@ -6,3 +6,7 @@
 ##### very eager to learn code but seem something wrong in my head on  learning code
 ###### like computer games 
 oops, i can't find 'save'
+# how2use Github? very puzzled. even Google translate cannot help
+###### is it javascript to input?
+###### btw, i hate win11's input
+
