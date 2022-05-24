@@ -15,7 +15,7 @@ Hello! I'm Qizhen Yang, a student in China.
 
 A pessimistic person is always tortured by emotions, only optimism can get me real joy.
 </div>
-<br><p>//不是说align这种都废了的吗🤔<p><br>
+
 # Contact Me
 - Email <alejandro_yang@yeah.net>
 - GitHub [@Qizhen-Yang](https://github.com/Qizhen-Yang)
@@ -23,7 +23,7 @@ A pessimistic person is always tortured by emotions, only optimism can get me re
 <br>
 <br>
 <p>这™到底是什么玩意</p>
-
+<br><p>//不是说align这种都废了的吗🤔<p><br>
 <br><br><br><br><p>以下另算</p><br><br><br><br><br>
 https://developer.mozilla.org/zh-CN/
 <br>
