@@ -35,3 +35,30 @@ https://www.runoob.com/
 
 <h1>CSS</h1>
 <p>CSS 定义如何显示 HTML 元素。</p>
+
+HTML <hr> 元素表示段落级元素之间的主题转换（例如，一个故事中的场景的改变，或一个章节的主题的改变）。
+<br>
+在 HTML 的早期版本中，它是一个水平线。现在它仍能在可视化浏览器中表现为水平线，但目前被定义为语义上的，而不是表现层面上。所以如果想画一条横线，请使用适当的 css 样式来修饰。
+<br><br>
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+
+
+<br><br><br><br><br><br><br>我算是看出来了
+<br>一切的罪魁祸首是CSS
+<br>CSS炸了
