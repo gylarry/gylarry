@@ -22,5 +22,6 @@ I'm very puzzled becauz my two accounts have different levels.
 </tr>
 </tbody>
 </table>
+<p>真的，GitHub什么玩意。人家一个下围棋的网站都能显示embed，你个写代码的网站还不能显示</p>
 <br><br>
 <p>any suggestions to improve this text box plz message me</p>
