@@ -10,9 +10,12 @@ I'm a Chinese student. male. 14. </h4>
 <li>play GO(weiqi)
     <ul>
     <li>https://online-go.com/user/view/1158161</li>
+    <li>I won't tell you my other account</li>
     </ul>
 </li>
-<li>nothing</li>
+<li>play a lots web games</li>
+<li>both clever and stupid</li>
+<li>hate homework</li>
         <br><br>
 <h3>Contact Me</h3>
 <div style="color:white">————————————————————————————</div>
