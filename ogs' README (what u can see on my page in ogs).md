@@ -16,8 +16,7 @@ I'm very puzzled becauz my two accounts have different levels.
 <br><br>
 <h3>About Me</h3>
 <div style="color:white">————————————————————————————</div>
-<li><a href="https://avavt.github.io/gotstats/#/user/siancl" 
->🔗statistics for me </a></li><li>nothing</li><li>nothing</li>
+<li><a href="https://avavt.github.io/gotstats/#/user/siancl">🔗statistics for me </a></li><li>nothing</li><li>nothing</li>
 
 <br><br><br>
 <h5><div align="right">something else:</br>↓↓↓ If you can use it to play a game <div></h5>
