@@ -32,7 +32,7 @@
                         something else:</br>↓↓↓ If you can use it to play a game. 
                     </div>
                 </h5>
-        <embed src="/play" width="100%" height=450>
+                <embed src="/play" width="100%" height=450>
             </td>
         </tr>
     </tbody>
