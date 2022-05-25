@@ -1,4 +1,7 @@
-
+<p>说明：这里的效果可以但不完全可以代替在ogs上能看到的效果</p>
+<p>https://online-go.com/player/1158161/</p>
+<p>↑↑↑就是我</p>
+<br><br><br><br>
 
 <table bgcolor="#545454" width="100%">
 <tbody>
