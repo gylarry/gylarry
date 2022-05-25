@@ -13,7 +13,7 @@
         <div style="color:white">————————————————————————————</div>
         <li>play GO(weiqi)
             <ul>
-                <li>https://online-go.com/user/view/1158161</li>
+                <li><a href="https://online-go.com/player/1158161/" target="_blank">MY ACCOUNT</a></li>
                 <li>I won't tell you my other account</li>
             </ul>
         </li>
