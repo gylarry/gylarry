@@ -6,12 +6,13 @@
         <li>play GO(weiqi)
             <ul>
                 <li><a href="https://online-go.com/player/1158161/" target="_blank">MY ACCOUNT</a></li>
-                <li>I won't tell you my other account</li>
+                <li>I won't tell you my other accounts</li>
             </ul>
         </li>
         <li>play a lots web games</li>
         <li>both clever and stupid</li>
         <li>hate homework</li>
+        <li>I'm a OP.</li>
         <h2>Contact Me</h2>
         <li>no way</li>
         <br>
