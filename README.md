@@ -2,7 +2,7 @@
             <h1>—  Hello! I'm gylarry.  —</h1>
 </div>
         <h2>About Me</h2>
-        <li>I'm a Chinese student. male. 16. </li>
+        <li>I'm a Chinese student. male. </li>
         <li>play GO(weiqi)
             <ul>
                 <li><a href="https://online-go.com/player/1158161/" target="_blank">MY ACCOUNT</a></li>
