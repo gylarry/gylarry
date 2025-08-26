@@ -17,6 +17,6 @@
         <li>no way</li>
         <br>
         <div align="center">
-            <h5>—— 多搞点事情 ——</h5>
+            <h5>—— 多搞点事情对人生有益 ——</h5>
         </div>
 
